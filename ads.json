@@ -1,0 +1,26 @@
+[
+	{
+		"app_title": "App Name (Dialog)",
+		"app_desc": "Your App's description",
+		"app_header_image": "https://wp2speed.com/wp-content/uploads/2020/10/LOGO.png",
+		"app_uri": "https://hoangweb.com"
+	},
+	{
+		"app_title": "App Name 3 (Native Ad) abc 121213 343 43 4 121213 343 43",
+		"app_desc": "Your App's Description",
+		"app_header_image": "https://wp2speed.com/wp-content/uploads/2020/10/LOGO.png",
+		"app_uri": "https://hoangweb.com"		
+	},
+	{
+		"app_title": "App Name 4 (Native Ad)",
+		"app_desc": "Your App's Description",
+		"app_header_image": "https://www.wordstreamcdn.com/wp-content/uploads/2021/07/banner-ads-examples-ncino.jpg",
+		"app_uri": "https://hoangweb.com"
+	},
+	{
+		"app_title": "App Name 5 ",
+		"app_desc": "Your App's Description",
+		"app_header_image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lays_brand_logo.png",
+		"app_uri": "https://hoangweb.com"
+	}
+]
